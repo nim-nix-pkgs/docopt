@@ -1,5 +1,5 @@
 {
-  description = ''Command-line args parser based on Usage message'';
+  description = ''Command line option parser that will make you smile'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
