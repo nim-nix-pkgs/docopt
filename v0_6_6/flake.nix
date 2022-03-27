@@ -11,6 +11,7 @@
   inputs.src-docopt-v0_6_6.ref   = "refs/tags/v0.6.6";
   inputs.src-docopt-v0_6_6.owner = "docopt";
   inputs.src-docopt-v0_6_6.repo  = "docopt.nim";
+  inputs.src-docopt-v0_6_6.dir   = "";
   inputs.src-docopt-v0_6_6.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

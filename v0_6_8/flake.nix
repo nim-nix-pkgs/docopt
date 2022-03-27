@@ -11,6 +11,7 @@
   inputs.src-docopt-v0_6_8.ref   = "refs/tags/v0.6.8";
   inputs.src-docopt-v0_6_8.owner = "docopt";
   inputs.src-docopt-v0_6_8.repo  = "docopt.nim";
+  inputs.src-docopt-v0_6_8.dir   = "";
   inputs.src-docopt-v0_6_8.type  = "github";
   
   inputs."regex".owner = "nim-nix-pkgs";

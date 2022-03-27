@@ -11,6 +11,7 @@
   inputs.src-docopt-master.ref   = "refs/heads/master";
   inputs.src-docopt-master.owner = "docopt";
   inputs.src-docopt-master.repo  = "docopt.nim";
+  inputs.src-docopt-master.dir   = "";
   inputs.src-docopt-master.type  = "github";
   
   inputs."regex".owner = "nim-nix-pkgs";
